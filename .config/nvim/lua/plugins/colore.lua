@@ -4,6 +4,7 @@ return {
         name = "rose-pine",
         opts = {
             disable_background = true,
+            dim_inactive_windows = false,
             styles = {
                 italic = false,
             },
