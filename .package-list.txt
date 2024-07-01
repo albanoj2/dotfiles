@@ -1,3 +1,4 @@
+neovim
 brave-browser
 gnome-tweaks
 net-tools
