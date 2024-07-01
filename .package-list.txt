@@ -1,0 +1,5 @@
+brave-browser
+gnome-tweaks
+net-tools
+ripgrep
+fuse
