@@ -4,3 +4,4 @@ gnome-tweaks
 net-tools
 ripgrep
 fuse
+parallel
