@@ -249,4 +249,15 @@ return {
             attach_jdtls()
         end,
     },
+    {
+        "nvim-neo-tree/neo-tree.nvim",
+        opts = {
+            filesystem = {
+                group_empty_dirs = true,
+            },
+            buffer = {
+                group_empty_dirs = true,
+            },
+        },
+    },
 }
